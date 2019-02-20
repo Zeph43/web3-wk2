@@ -6,10 +6,10 @@
     background-color: cornsilk;
 }
 
-[class^="col"]:first-child {
+[class^="col-"]:first-child {
     background-color: aquamarine;
 }
 
-[class^="col"]:last-child {
+[class^="col-"]:last-child {
     background-color: salmon;
 }
