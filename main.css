@@ -1,15 +1,48 @@
+h5 {
+    font-family: 'Bungee', cursive;
+}
+
+.display-4 {
+    font-family: 'Bungee Shade', cursive;
+    font-size: 4.5rem;
+    line-height: 1.2;
+    text-align: center;
+}
+.lead {
+    text-align: center;
+}
+
+.pos-f-t {
+    position: fixed;
+    z-index: 1035;
+}
+
 .container {
-    background-color: dodgerblue;
+    background-color:;
 }
 
 .row {
-    background-color: cornsilk;
+    background-color:;
 }
 
+.card {
+    margin-bottom: 1em;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.btn-primary {
+    color: #000;
+    background-color: #fff;
+    border-color: #000;
+  }
+
 [class^="col-"]:first-child {
-    background-color: aquamarine;
+    background-color:;
 }
 
 [class^="col-"]:last-child {
-    background-color: salmon;
+    background-color:;
 }
