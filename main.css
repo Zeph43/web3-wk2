@@ -15,10 +15,23 @@ h5 {
 .pos-f-t {
     position: fixed;
     z-index: 1035;
+    right: 0;
+}
+
+.navbar {
+    float: right;
+}
+
+.bg-dark {
+    background-color: #212529!important;
 }
 
 .container {
     background-color:;
+}
+
+.jumbotron {
+    background-color: #fff;
 }
 
 .row {
@@ -38,6 +51,11 @@ h5 {
     background-color: #fff;
     border-color: #000;
   }
+
+.btn-primary:hover {
+    background-color: #212529;
+    border-color: #212529;
+}
 
 [class^="col-"]:first-child {
     background-color:;
